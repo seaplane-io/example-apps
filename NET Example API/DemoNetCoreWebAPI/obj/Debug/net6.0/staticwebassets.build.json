@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tw1tBVVBFHVKc5cF1K4O6kYfIfpI2zYcKSq7g+et0Qk=",
+  "Source": "DemoNetCoreWebAPI",
+  "BasePath": "_content/DemoNetCoreWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
