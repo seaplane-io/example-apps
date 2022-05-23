@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoNetCoreWebAPI", "DemoNetCoreWebAPI\DemoNetCoreWebAPI.csproj", "{91D0D611-F8E0-4CA6-9E54-82F49AAB98C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D0D611-F8E0-4CA6-9E54-82F49AAB98C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D0D611-F8E0-4CA6-9E54-82F49AAB98C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D0D611-F8E0-4CA6-9E54-82F49AAB98C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D0D611-F8E0-4CA6-9E54-82F49AAB98C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BE254F9-C58A-449D-90E4-0CDA1F360934}
+	EndGlobalSection
+EndGlobal
